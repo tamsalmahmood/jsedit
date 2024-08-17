@@ -1,0 +1,18 @@
+.edit
+{
+  height: 300px;
+  width: 400px;
+  border: 20px solid black;
+  margin: 0 auto;
+}
+
+#link1
+{
+    background-color: rgb(211, 142, 39);
+    border-radius: 2px;
+    background-color: #4CAF50; /* Background color */
+ 
+}
+#link1:hover {
+    background-color: #afe4b1; /* Darker background color on hover */
+}
